@@ -1,5 +1,5 @@
 # SERA-Two-Stage-Seg
-This is the reference code for the paper ["A two-stage CNN method for MRI image segmentation of prostate with lesion."](https://www.sciencedirect.com/science/article/abs/pii/S1746809423000435).
+This is the reference code for [this paper](https://www.sciencedirect.com/science/article/abs/pii/S1746809423000435).
 
 # Code Update Log
 07/05/2024: Upload the code for building the classification and segmentation model proposed in the paper.
@@ -33,5 +33,5 @@ BibTex:
 }
 
 # Contact Information
-If you have any problems when using this code, please contact: rofanfanwu@gmail.com  
+If you have any problems when using this code, please email me: rofanfanwu@gmail.com  
 I will try my best to help you!
