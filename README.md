@@ -1,5 +1,5 @@
 # SERA-Two-Stage-Seg
-This is the reference code for the paper "A two-stage CNN method for MRI image segmentation of prostate with lesion".
+This is the reference code for the paper ["A two-stage CNN method for MRI image segmentation of prostate with lesion."](https://www.sciencedirect.com/science/article/abs/pii/S1746809423000435).
 
 # Code Update Log
 07/05/2024: Upload the code for building the classification and segmentation model proposed in the paper.
@@ -16,11 +16,7 @@ You put both the image and the mask under one folder.
 It is recommended to build two different environments using Anaconda.  
 You need GPU support, cuda version suggestion: cuda 11.8  
 For classification, the code is built based on Keras(tensorflow~=2.14.0 & keras~=2.14.0).  
-For Segmentation, the code is built based on PyTorch(11.8).  
-
-# Contact Information
-If you have any problems when using this code, please contact: rofanfanwu@gmail.com  
-I will try my best to help you!  
+For Segmentation, the code is built based on PyTorch(11.8).    
 
 # Paper Information
 Please cite this paper after referring to the code.  
@@ -35,3 +31,7 @@ BibTex:
   year={2023},  
   publisher={Elsevier}  
 }
+
+# Contact Information
+If you have any problems when using this code, please contact: rofanfanwu@gmail.com  
+I will try my best to help you!
