@@ -2,7 +2,7 @@
 This is the reference code for [this paper](https://www.sciencedirect.com/science/article/abs/pii/S1746809423000435).
 
 # Code Update Log
-07/05/2024: Upload the code for building the classification and segmentation model proposed in the paper.
+07/25/2024: Upload the code for building the classification and segmentation model proposed in the paper.
 
 # Dataset Availability
 The dataset used in this experiment is confidential due to the need to protect patient privacy.  
